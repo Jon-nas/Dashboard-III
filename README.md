@@ -1,4 +1,4 @@
-# Relatório Vendas e Lucros com Data Analytics com Power BI
+# Relatório Vendas e Lucros Data Analytics com Power BI
 
 O projeto de Data Analytics com Power BI, foi criado seguindo as diretrizes
 e considerando certos pontos para garantir que o relatório final seja útil e fácil de entender.
