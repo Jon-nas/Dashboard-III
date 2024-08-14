@@ -49,6 +49,6 @@ e considerando certos pontos para garantir que o relatório final seja útil e f
 - **Interatividade**: Elementos interativos, como filtros e slicers, para permitir que o cliente explore os dados de diferentes maneiras.
 - **Estética**: Mantendo um design visualmente agradável e consistente.
 
-Procrei seguir essas diretrizes, para poder criar um relatório de Power BI que não só atende às necessidades do cliente, mas também facilita a tomada de decisões baseada em dados.
+Procurei seguir essas diretrizes, para poder criar um relatório de Power BI que não só atende às necessidades do cliente, mas também facilita a tomada de decisões baseada em dados.
 
 Se precisar de mais detalhes ou ajuda com alguma parte específica do projeto, estou aqui para ajudar!
