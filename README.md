@@ -8,7 +8,7 @@ e considerando certos pontos para garantir que o relatório final seja útil e f
 
 1. **Criação da Página de Detalhes**:
    
-       - Com base noo modelo apresentado no desafio de projeto.
+       - Com base no modelo apresentado no desafio de projeto.
        - Certificando de que a página de detalhes seja clara e contenha todas as informações necessárias.
 
 3. **Disposição dos Visuais**:
